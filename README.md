@@ -51,5 +51,12 @@ Support for multiple safety mechanisms, such as gas suppression systems.
 Contributors
 Your Name - Developer
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+------------------------------------------------------------------------------------------------
+ardino code is availabe in ardino code
 
+main code is availabe in yolov5
+
+ detect.py
+run the file in that directry
+========================================================================
 
